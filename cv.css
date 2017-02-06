@@ -7,28 +7,131 @@
     font-family: 'mapolice';
     src: url('police/TravelingTypewriter.ttf');
 }
-div{
+.one {
+  width: 70%;
+height: auto;
+display: flex;
+flex-wrap: nowrap;
+background-color: rgba(165, 170, 194, 0.5);
+}
+
+.exp1{
+  width: 40%;
+  height: auto;
+
+}
+.exp2{
+  width: 40%;
+  height: auto;
+}
+
+
+.two {
+  width: 70%;
+height: auto;
+display: flex;
+flex-wrap: nowrap;
+background-color: rgba(165, 170, 194, 0.5);
+}
+
+.exp3{
+  width: 40%;
+  height: auto;
+
+}
+.exp4{
+  width: 40%;
+  height: auto;
+}
+
+.three {
+  width: 70%;
+height: auto;
+display: flex;
+flex-wrap: nowrap;
+background-color: rgba(165, 170, 194, 0.5);
+}
+
+.exp5{
+  width: 40%;
+  height: auto;
+
+}
+.exp6{
+  width: 40%;
+  height: auto;
+}
+
+.four {
+  width: 70%;
+height: auto;
+display: flex;
+flex-wrap: nowrap;
+background-color: rgba(165, 170, 194, 0.5);
+}
+
+.exp7{
+  width: 40%;
+  height: auto;
+
+}
+.exp8{
+  width: 40%;
+  height: auto;
+}
+
+.five {
+  width: 70%;
+height: auto;
+display: flex;
+flex-wrap: nowrap;
+background-color: rgba(165, 170, 194, 0.5);
+}
+
+.exp9{
+  width: 40%;
+  height: auto;
+
+}
+.exp10{
+  width: 40%;
+  height: auto;
+}
+
+img{
+  width: 5
+}
+h1 {
   text-align: center;
 }
 
-div{
-
-}
-.expe{
-  background-color: red;
-  width: 100%;
-  height: 200px;
-}
-
-
 body {
-
+  background-attachment: fixed;
   color:black;
   background-size: cover;
   background-image:url(img/tea.JPG);
   opacity: 0,5;
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat:
   margin:0;
   font-family: 'mapolice';
+}
+.rond{
+  width: 10px;
+  height: 10px;
+  background: rgb(1, 16, 96);
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  display: inline-block;
+}
+
+.rond2{
+  width: 10px;
+  height: 10px;
+  background: rgb(130, 132, 139);
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  display: inline-block;
 }
